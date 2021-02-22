@@ -7,6 +7,7 @@ import styled from 'styled-components'
 
 const ContentWrapper = styled.div`
 padding :0 10rem ;
+
 margin-top : 4rem;
 height : auto;
 z-index : 990;
